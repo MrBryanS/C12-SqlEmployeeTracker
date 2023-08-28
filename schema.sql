@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS c12employees_db;
+CREATE DATABASE c12employees_db;
