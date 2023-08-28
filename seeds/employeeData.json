@@ -1,0 +1,37 @@
+[
+	{
+		"id" : 1,
+		"first_name" : "Fname01",
+		"lastd_name" : "Lname01",
+		"role_id" : 1,
+		"manager_id" : 1
+	},
+	{
+		"id" : 2,
+		"first_name" : "Fname02",
+		"lastd_name" : "Lname02",
+		"role_id" : 2,
+		"manager_id" : 1
+	},
+	{
+		"id" : 3,
+		"first_name" : "Fname03",
+		"lastd_name" : "Lname3",
+		"role_id" : 3,
+		"manager_id" : 2
+	},
+	{
+		"id" : 4,
+		"first_name" : "Fname04",
+		"lastd_name" : "Lname04",
+		"role_id" : 1,
+		"manager_id" : 1
+	},
+	{
+		"id" : 5,
+		"first_name" : "Fname05",
+		"lastd_name" : "Lname05",
+		"role_id" : 2,
+		"manager_id" : 2
+	}
+]
