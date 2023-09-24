@@ -6,7 +6,7 @@ USE c12employees_db;
 
 CREATE TABLE department (
   id INT NOT NULL,
-  name VARCHAR(45),
+  department_name VARCHAR(45),
   PRIMARY KEY (id) 
 );
 
@@ -22,7 +22,7 @@ CREATE TABLE role (
 CREATE TABLE employee (
   id INT NOT NULL,
   first_name VARCHAR(45),
-  lastd_name VARCHAR(45),
+  last_name VARCHAR(45),
   role_id INT,
   manager_id INT,
   PRIMARY KEY (id) 
