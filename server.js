@@ -1,8 +1,7 @@
 // Import and require mysql2
 const mysql = require('mysql2');
 const PORT = process.env.PORT || 3001;
-const app = require('express')
-// const app = express();
+const app = express();
 
 // Express middleware
 app.use(express.urlencoded({ extended: false }));
