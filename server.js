@@ -64,7 +64,7 @@ addDepartment = () => {
     });
 };
 
-// TODO add a role
+// add a role
 addRole = () => {
   inquirer
     .prompt([
@@ -88,7 +88,7 @@ addRole = () => {
     });
 }
 
-// TODO add an employee
+// add an employee
 addEmployee = () => {
   inquirer
     .prompt([

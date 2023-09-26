@@ -18,29 +18,32 @@ Assignment project to gain experience creating a content management system (CMS)
 
 [Installation](#installation) 
 
+
  
 [Usage](#usage) 
 
 
+
 [License](#license) 
 
-
-[Contributing](#contributing) 
-
- 
-[Tests](#tests) 
-
- 
-[Questions](#questions) 
+This project is licensed under the MIT license.
 
  
 ## Installation 
 
+At the command line run the following commands to install the required dependencies:
+`npm i inquier@8.2.4`
+
+`npm install --save mysql2`
+
+`npm start`
  
  
 ## Usage 
 
- This is practice code clone it and explore! 
+This is practice code clone it and explore! 
+
+Select an option from the menu to view, add, update or delete employees, roles or departments.  Select Exit to end the program.
  
 ## License 
 
