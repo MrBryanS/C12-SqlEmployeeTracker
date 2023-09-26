@@ -4,7 +4,9 @@
 
 Github Link: [https://github.com/MrBryanS/C12-SqlEmployeeTracker](https://github.com/MrBryanS) 
 
-The deliverable on this project is a video clip that can be found here: []()
+
+
+The deliverable on this project is a recording: [Recording: C12-SQL Employee Tracker.webm](https://drive.google.com/file/d/1z8z0hcF2gNcdsc1L6rn8RepUYfI58jsS/view)
 
 ## Description 
 
@@ -32,9 +34,8 @@ This project is licensed under the MIT license.
 ## Installation 
 
 At the command line run the following commands to install the required dependencies:
-`npm i inquier@8.2.4`
 
-`npm install --save mysql2`
+`npm install`
 
 `npm start`
  
